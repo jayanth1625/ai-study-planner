@@ -14,3 +14,10 @@ A Flask web app that generates personalized study plans based on exam date, subj
 ---
 
 ## 📂 Project Structure
+## 📸 Screenshots
+
+### Home Page
+![Home Page](docs/home.png)
+
+### Generated Study Plan
+![Study Plan](docs/plan.png)
